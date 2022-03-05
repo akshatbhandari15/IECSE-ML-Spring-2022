@@ -69,4 +69,4 @@ git pull origin main
 
 - All solutions will be uploaded to main.
 
-- All tasks will be posted on the [wiki](https://github.com/akshatbhandari15/IECSE-ML-Spring-2022/wikis).
+- All tasks will be posted on the [wiki](https://github.com/akshatbhandari15/IECSE-ML-Spring-2022/wiki).
